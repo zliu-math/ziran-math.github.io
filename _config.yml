@@ -7,7 +7,8 @@ first_name: Ziran
 middle_name: 
 last_name: Liu
 contact_note: >
-  Address: Office 1220, Block A, International Innovation Plaza, 
+  Address: Office 1220, SIMIS,
+           Block A, International Innovation Plaza, 
            No. 657 Songhu Road, 
            Yangpu District, 200433, Shanghai, China.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
