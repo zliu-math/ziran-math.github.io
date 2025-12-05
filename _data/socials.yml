@@ -2,6 +2,40 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+
+
+# -----------------------------------------------------------------------------
+# Social Icons Data
+# -----------------------------------------------------------------------------
+
+# 1. 你的邮箱 (Email)
+email: zl1011@stern.nyu.edu
+
+# 2. 你的简历 (CV) - 这是一个特殊图标
+# 确保你的 PDF 文件已经传到了 assets/pdf/ 文件夹里
+cv: assets/pdf/ZL_CV.pdf
+
+# 3. 学术平台 (Google Scholar)
+# 去你的 Google Scholar 主页复制那一串 ID (user=后面的部分) 或者完整链接
+# scholar: https://scholar.google.com/citations?user=你的ID
+
+# 4. 领英 (LinkedIn) - 如果不想展示就整行删掉
+# linkedin: ziran-liu
+
+# 5. 其他你想展示的 (GitHub, ORCID 等)
+# github: zliu-math
+
+# --- 下面这些是模板自带的“垃圾数据”，请统统删掉！---
+# 找到类似下面的行，直接删除，那个爱因斯坦的头就像就会消失：
+# inspire_hep: ...
+# semanticscholar: ...
+# orcid: ...
+# wechat_qr: ...
+
+
+
+
+
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
@@ -9,17 +43,17 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: you@example.com # your email address
+# email: you@example.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -36,7 +70,7 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -52,7 +86,7 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined above
+  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  # title: Custom Social
+  # url: https://www.alberteinstein.com/
