@@ -13,7 +13,7 @@ email: zl1011@stern.nyu.edu
 
 # 2. 你的简历 (CV) - 这是一个特殊图标
 # 确保你的 PDF 文件已经传到了 assets/pdf/ 文件夹里
-cv: assets/pdf/ZL_CV.pdf
+cv_pdf: assets/pdf/ZL_CV.pdf
 
 # 3. 学术平台 (Google Scholar)
 # 去你的 Google Scholar 主页复制那一串 ID (user=后面的部分) 或者完整链接
